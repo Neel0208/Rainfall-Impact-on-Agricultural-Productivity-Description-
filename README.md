@@ -114,11 +114,11 @@ A geographical map is used to compare average crop yield across different states
 
 ### Main Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Screenshot%202026-09-06%20212752.png)
 
 ### Insights and Recommendations
 
-![Insights and Recommendations](images/insights.png)
+![Insights and Recommendations](Screenshot%202026-09-06%20212807.png)
 
 ---
 
